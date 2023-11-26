@@ -26,6 +26,6 @@ This is a simulation for solar system. Used exact values to calculate force, gra
 ## licence
 copyrights go to the [Tech with Tim](https://www.youtube.com/@TechWithTim) YouTube channel for the first 4 planets.
 
-This project is licensed under the MIT LICENSE - see the [LICENSE](LICENCE) file for details.
+This project is licensed under the MIT LICENSE - see the [LICENSE](LICENSE) file for details.
 
 © Copyright received by [kavindu kokila](mailto:kavindu.kokila.info@gmail.com)
