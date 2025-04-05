@@ -1,4 +1,4 @@
-# Planets realistic simulation
+# Realistic Solar System Simulation
 
 This is a simulation for solar system. Used exact values to calculate force, gravity, distance and other params.
 
